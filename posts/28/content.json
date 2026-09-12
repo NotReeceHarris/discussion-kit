@@ -1,0 +1,92 @@
+{
+	"id": "D_kwDOTdVZjs4Aovo2",
+	"number": 28,
+	"title": "Who wants to kill the GFW",
+	"body": "Who wants to kill the GFW",
+	"bodyHTML": "<p dir=\"auto\">Who wants to kill the GFW</p>",
+	"url": "https://github.com/NotReeceHarris/discussion-kit/discussions/28",
+	"createdAt": "2026-08-25T01:39:49Z",
+	"lastEditedAt": null,
+	"upvoteCount": 1,
+	"viewerHasUpvoted": false,
+	"locked": false,
+	"author": {
+		"login": "whitedragon-one",
+		"avatarUrl": "https://avatars.githubusercontent.com/u/300095696?u=8181b0b0fa632bc42d4f3766d6c58007d73e18f0&v=4",
+		"url": "https://github.com/whitedragon-one"
+	},
+	"category": {
+		"id": "DIC_kwDOTdVZjs4DBhxy",
+		"name": "Q&A",
+		"slug": "q-a",
+		"emojiHTML": "<div>🙏</div>",
+		"description": "Ask the community for help",
+		"isAnswerable": true
+	},
+	"reactionGroups": [
+		{
+			"content": "THUMBS_UP",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 1
+			}
+		},
+		{
+			"content": "THUMBS_DOWN",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "LAUGH",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 1
+			}
+		},
+		{
+			"content": "HOORAY",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 1
+			}
+		},
+		{
+			"content": "CONFUSED",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "HEART",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 1
+			}
+		},
+		{
+			"content": "ROCKET",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 1
+			}
+		},
+		{
+			"content": "EYES",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 1
+			}
+		}
+	],
+	"comments": {
+		"totalCount": 0,
+		"pageInfo": {
+			"endCursor": null,
+			"hasNextPage": false
+		},
+		"nodes": []
+	}
+}
