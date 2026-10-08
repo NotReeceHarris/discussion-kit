@@ -9,8 +9,6 @@ A fully featured forum site powered entirely by **GitHub Discussions** — no ba
 
 Deep-dive documentation lives in [`docs/`](docs/README.md) — architecture, [data syncing](docs/data-sync.md) (with flow diagram), [reputation](docs/reputation.md), and the [read-only archive](docs/archive.md).
 
-[![Follow us on product hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1200822&amp;theme=light&amp;t=1784712347238)](https://www.producthunt.com/products/git-forum?utm_source=badge-follow&utm_medium=badge&utm_source=badge-git&#0045;forum)
-
 ## How it works
 
 - **Topics** are your repository's Discussion categories.
